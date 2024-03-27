@@ -40,7 +40,7 @@
 | BERT      | 90.28%   |
 
 <strong>[Gradio를 통한 확인]</strong>
-
+![image](https://github.com/seojunho97/sesac_team_project_dl/assets/106465767/22d9fa64-8137-4d6c-b75f-6bca2eae00de)
 ### 팀원 소개
 
 ---
