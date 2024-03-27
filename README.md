@@ -16,6 +16,7 @@
 - 기본적인 NLP에 대한 내용을 학습 후 학습한 내용의 실습
 - Text classification을 할 수 있는 모델 파이프라인을 구축 후 성능 비교 및 평가
 
+<strong>[PPT LINK](https://docs.google.com/presentation/d/1LJbdhC593KaDRMHQ4TV4RUa79xmguabfHh3x2DeEgPU/edit?usp=sharing)</strong>
 ### 절차 및 결과
 
 ---
